@@ -1,0 +1,25 @@
+# File types #
+##############
+*.pyc
+*.tmproj
+*.komodoproject
+#*.json
+*.db
+@@*
+
+# Directories #
+###############
+#logs/
+static_collected
+
+# Specific files #
+##################
+#/settings.py
+/vocab/catalog-v001.xml
+
+# OS generated files #
+######################
+.DS_Store
+Icon?
+Thumbs.db
+
